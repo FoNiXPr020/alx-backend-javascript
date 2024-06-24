@@ -1,1 +1,1 @@
-GitHub Repository Back-end JavaScript - ALX SE
+GitHub Repository Back-end JavaScript - ALX-SE
