@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Iterate over all files matching the pattern *-main.js
+for file in *-main.js; do
+  echo "Running npm run dev $file"
+  npm run dev $file
+done
+
