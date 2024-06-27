@@ -55,6 +55,7 @@ export default class HolbertonCourse {
     }
   }
 
+  // eslint-disable-next-line class-methods-use-this
   _validateAttributes(attrs) {
     const validators = new Map([
       ['name', HolbertonCourse._checkString],
